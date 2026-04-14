@@ -21,3 +21,52 @@ Manage Users
 🚧 Road Damage
 💧 Water Leakage
 🚽 Drainage Issues
+
+⚙️ Technologies Used
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
+Database: MySQL
+Tools: VS Code, XAMPP
+🗂️ Project Structure
+smart-city-complaint-system/
+│
+├── index.html
+├── login.php
+├── register.php
+├── dashboard.php
+├── complaint_form.php
+├── view_status.php
+│
+├── admin/
+│   ├── admin_login.php
+│   ├── dashboard.php
+│   ├── manage_complaints.php
+│
+├── css/
+├── js/
+├── images/
+│
+└── database/
+    └── smart_city.sql
+🗄️ Database Tables
+users
+complaints
+admin
+departments
+🚀 How to Run the Project
+Install XAMPP/WAMP
+
+Place project folder in:
+
+htdocs/
+Start:
+Apache Server
+MySQL Server
+Import database:
+Open phpMyAdmin
+Create database: smart_city
+Import smart_city.sql
+
+Run in browser:
+
+http://localhost/smart-city-complaint-system
