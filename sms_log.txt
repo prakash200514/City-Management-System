@@ -1,0 +1,18 @@
+[2026-02-12 17:26:25] To: +1234567890 | Message: This is a test SMS message.
+[2026-02-12 17:29:15] To: +15550005082 | Message: Smart City Ops: Your complaint #999 ('Test Complaint 1770913753') has been lodged successfully. We will resolve it soon.
+[2026-02-12 17:31:35] To: +918270365246 | Message: Smart City Ops: Your complaint #0 ('Low Water Providing') has been lodged successfully. We will resolve it soon.
+[2026-02-13 09:30:19] To: 08270365246 | Message: Smart City Ops: Your complaint #0 ('We want water Supply') has been lodged successfully. We will resolve it soon.
+[2026-02-13 09:42:06] To: 08270365246 | Message: Smart City Ops: Your complaint #0 ('didnot receive water') has been lodged successfully. We will resolve it soon.
+[2026-02-13 09:47:10] To: +918270365246 | Message: Smart City Ops: Your complaint #0 ('No water supply') has been lodged successfully. We will resolve it soon.
+[2026-02-13 09:56:22] To: 08270365246 | Message: Smart City Ops: Your complaint #2 is now 'Resolved'. Notes: work completed
+[2026-02-13 12:05:38] To: 08270365246 | Message: Smart City Ops: Your complaint #0 ('water supply') has been lodged successfully. We will resolve it soon.
+[2026-02-13 12:05:52] To: 08270365246 | Message: Smart City Ops: Your complaint #0 ('water supply') has been lodged successfully. We will resolve it soon.
+[2026-02-13 12:13:29] To: 08270365246 | Message: Smart City Ops: Your complaint #8 is now 'Resolved'. Notes: 
+[2026-02-13 12:13:43] To: 08270365246 | Message: Smart City Ops: Your complaint #8 is now 'Resolved'. Notes: 
+[2026-02-13 12:13:58] To: 08270365246 | Message: Smart City Ops: Your complaint #8 is now 'Resolved'. Notes: 
+[2026-02-13 12:14:12] To: 08270365246 | Message: Smart City Ops: Your complaint #8 is now 'Resolved'. Notes: 
+[2026-02-17 10:47:19] To: 08270365246 | Message: Smart City Ops: Your complaint #7 is now 'Resolved'. Notes: 
+[2026-02-17 10:47:36] To: 08270365246 | Message: Smart City Ops: Your complaint #7 is now 'Resolved'. Notes: 
+[2026-02-18 11:41:45] To: +918270365246 | Message: Smart City Ops: Your complaint #6 is now 'Resolved'. Notes: 
+[2026-02-25 10:17:46] To: 8148273566 | Message: Smart City Ops: Your complaint #0 ('new electricity connection') has been lodged successfully. We will resolve it soon.
+[2026-03-18 10:06:00] To: +918270365246 | Message: Smart City Ops: Your complaint #0 ('Water Issue') has been lodged successfully. We will resolve it soon.

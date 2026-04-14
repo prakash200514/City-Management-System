@@ -1,0 +1,79 @@
+[2026-02-12 17:26:23] To: test@example.com | Subject: Test Subject | Message: This is a test email body.
+--------------------------------------------------
+[2026-02-12 17:29:13] To: test_citizen_1770913753@example.com | Subject: Complaint Lodged: Test Complaint 1770913753 | Message: Complaint Lodged Successfully
+                        Dear Test User,
+                        Your complaint has been successfully lodged with the Water Supply department.
+                        
+                        Complaint Details:
+                        Title: Test Complaint 1770913753
+                        Location: Test Location Sector 7
+                        Description:This is a detailed description of the test complaint verifying the copy message.
+                        
+                        We will address it shortly. Thank you only for being a responsible citizen.
+--------------------------------------------------
+[2026-02-12 17:31:33] To: kanagadharshni2006@gmail.com | Subject: Complaint Lodged: Low Water Providing | Message: Complaint Lodged Successfully
+                        Dear Kd,
+                        Your complaint has been successfully lodged with the Water Supply department.
+                        
+                        Complaint Details:
+                        Title: Low Water Providing
+                        Location: 7/234 mainroad,Thimmarajapuram
+                        Description:can you provide the HIgh amount of water
+                        
+                        We will address it shortly. Thank you only for being a responsible citizen.
+--------------------------------------------------
+[2026-02-12 17:31:35] To: wateradmin@gmail.com | Subject: New Complaint Alert: Low Water Providing | Message: New Complaint Received
+                                  Hello Admin,
+                                  A new complaint has been lodged for your department (Water Supply).
+                                  Title: Low Water Providing
+                                  Lodged By: Kd (kanagadharshni2006@gmail.com)
+                                  Location: 7/234 mainroad,Thimmarajapuram
+                                  Please log in to the dashboard to review and assign detailed tasks.
+--------------------------------------------------
+[2026-02-12 17:48:01] To: marimuthuprakash360@gmail.com | Subject: Test Email from Localhost
+[2026-02-12 17:48:01] Mailer Error: SMTP Error: Could not authenticate.
+[2026-02-12 18:02:29] To: marimuthuprakash360@gmail.com | Subject: Test Email from Localhost
+[2026-02-13 09:30:19] To: marimuthuprakash2005@gmail.com | Subject: Complaint Lodged: We want water Supply
+[2026-02-13 09:30:19] Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+[2026-02-13 09:30:19] To: wateradmin@gmail.com | Subject: New Complaint Alert: We want water Supply
+[2026-02-13 09:30:19] Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+[2026-02-13 09:41:58] To: marimuthuprakash2005@gmail.com | Subject: Complaint Lodged: didnot receive water
+[2026-02-13 09:42:06] To: wateradmin@gmail.com | Subject: New Complaint Alert: didnot receive water
+[2026-02-13 09:47:01] To: marimuthuprakash360@gmail.com | Subject: Complaint Lodged: No water supply
+[2026-02-13 09:47:10] To: wateradmin@gmail.com | Subject: New Complaint Alert: No water supply
+[2026-02-13 09:56:22] To: marimuthuprakash2005@gmail.com | Subject: Complaint Status Update
+[2026-02-13 09:56:22] Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+[2026-02-13 09:56:22] To: wateradmin@gmail.com | Subject: Task Completed
+[2026-02-13 09:56:22] Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+[2026-02-13 12:05:31] To: marimuthuprakash2005@gmail.com | Subject: Complaint Lodged: water supply
+[2026-02-13 12:05:38] To: wateradmin@gmail.com | Subject: New Complaint Alert: water supply
+[2026-02-13 12:05:45] To: marimuthuprakash2005@gmail.com | Subject: Complaint Lodged: water supply
+[2026-02-13 12:05:52] To: wateradmin@gmail.com | Subject: New Complaint Alert: water supply
+[2026-02-13 12:11:18] To: fieldworker2@gmail.com | Subject: New Task Assigned
+[2026-02-13 12:13:21] To: marimuthuprakash2005@gmail.com | Subject: Complaint Status Update
+[2026-02-13 12:13:29] To: wateradmin@gmail.com | Subject: Task Completed
+[2026-02-13 12:13:35] To: marimuthuprakash2005@gmail.com | Subject: Complaint Status Update
+[2026-02-13 12:13:43] To: wateradmin@gmail.com | Subject: Task Completed
+[2026-02-13 12:13:50] To: marimuthuprakash2005@gmail.com | Subject: Complaint Status Update
+[2026-02-13 12:13:58] To: wateradmin@gmail.com | Subject: Task Completed
+[2026-02-13 12:14:06] To: marimuthuprakash2005@gmail.com | Subject: Complaint Status Update
+[2026-02-13 12:14:12] To: wateradmin@gmail.com | Subject: Task Completed
+[2026-02-17 10:41:57] To: fieldworker1@gmail.com | Subject: New Task Assigned
+[2026-02-17 10:47:12] To: marimuthuprakash2005@gmail.com | Subject: Complaint Status Update
+[2026-02-17 10:47:19] To: wateradmin@gmail.com | Subject: Task Completed
+[2026-02-17 10:47:29] To: marimuthuprakash2005@gmail.com | Subject: Complaint Status Update
+[2026-02-17 10:47:36] To: wateradmin@gmail.com | Subject: Task Completed
+[2026-02-18 11:39:02] To: fieldworker1@gmail.com | Subject: New Task Assigned
+[2026-02-18 11:39:02] Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+[2026-02-18 11:41:45] To: marimuthuprakash360@gmail.com | Subject: Complaint Status Update
+[2026-02-18 11:41:45] Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+[2026-02-18 11:41:45] To: wateradmin@gmail.com | Subject: Task Completed
+[2026-02-18 11:41:45] Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+[2026-02-25 10:17:46] To: dharshni2006@gmail.com | Subject: Complaint Lodged: new electricity connection
+[2026-02-25 10:17:46] Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+[2026-02-25 10:17:46] To: electricity@gmail.com | Subject: New Complaint Alert: new electricity connection
+[2026-02-25 10:17:46] Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+[2026-03-10 12:34:35] To: fieldworker2@gmail.com | Subject: New Task Assigned
+[2026-03-10 12:37:32] To: fieldworker2@gmail.com | Subject: New Task Assigned
+[2026-03-18 10:05:53] To: saranya2005@gmail.com | Subject: Complaint Lodged: Water Issue
+[2026-03-18 10:06:00] To: electricity@gmail.com | Subject: New Complaint Alert: Water Issue
