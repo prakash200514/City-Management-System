@@ -9,12 +9,14 @@ User Registration & Login
 Submit Complaints (with description & image)
 Track Complaint Status
 View Complaint History
+
 🛠️ Admin Module
 Admin Login
 View All Complaints
 Assign Complaints to Departments
 Update Status (Pending / In Progress / Resolved)
 Manage Users
+
 🧾 Types of Complaints
 🗑️ Garbage Issues
 💡 Street Light Problems
@@ -27,6 +29,7 @@ Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: MySQL
 Tools: VS Code, XAMPP
+
 🗂️ Project Structure
 smart-city-complaint-system/
 │
@@ -48,11 +51,13 @@ smart-city-complaint-system/
 │
 └── database/
     └── smart_city.sql
+    
 🗄️ Database Tables
 users
 complaints
 admin
 departments
+
 🚀 How to Run the Project
 Install XAMPP/WAMP
 
