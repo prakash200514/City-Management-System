@@ -70,3 +70,26 @@ Import smart_city.sql
 Run in browser:
 
 http://localhost/smart-city-complaint-system
+
+🔐 Default Login (Optional)
+
+Admin:
+
+Username: admin
+Password: admin123
+🌟 Future Enhancements
+📍 Google Maps Integration
+📱 Mobile App Version
+🔔 Email/SMS Notifications
+🤖 AI-based complaint classification
+🤝 Contribution
+
+Feel free to fork this repository and contribute to improve the project.
+
+📄 License
+
+This project is for educational purposes.
+
+👨‍💻 Author
+
+MARI MUTHU PRAKASH M
