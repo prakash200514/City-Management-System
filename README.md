@@ -14,3 +14,11 @@ SCORTS is a comprehensive digital governance platform designed to streamline cit
 - **Department Admin**: Manage department-specific complaints and assign tasks to field workers.
 - **Field Worker**: Receive task assignments, update resolution progress, and submit completion reports.
 - **Citizen**: Lodge complaints, track resolution status, and receive automated notifications.
+
+🛠️ Core Modules
+- **Complaint Management**: Categorized reporting for Water, Electricity, Sanitation, and Roads.
+- **Real-time Tracking**: Live status updates from 'Pending' to 'Resolved'.
+- **Task Assignment System**: Seamless workflow from department admins to field workers.
+- **Automated Notifications**: Real-time in-app alerts, email notifications (via PHPMailer), and SMS simulations for critical updates.
+- **Analytics Dashboard**: Visual insights into department efficiency and complaint trends.
+- **Audit Trails**: Complete logging of status changes for accountability.
