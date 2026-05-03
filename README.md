@@ -56,3 +56,11 @@ Steps
 
 5. **Start Using**
    Access the application at `http://localhost/city/index.php`.
+
+🔑 Demo Credentials
+
+After running `seed_users.php`, you can use the following credentials to explore the system:
+
+| Role | Email | Password |
+| :--- | :--- | :--- |
+| **Super Admin** | `admin@smartcity.com` | `admin123` |
