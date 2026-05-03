@@ -85,3 +85,9 @@ After running `seed_users.php`, you can use the following credentials to explore
 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+📧 Contact
+
+**Prakash** - [prakash200514](https://github.com/prakash200514)
+
+Project Link: [https://github.com/prakash200514/City-Management-System](https://github.com/prakash200514/City-Management-System)
