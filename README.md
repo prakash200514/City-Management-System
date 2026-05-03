@@ -6,3 +6,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 SCORTS is a comprehensive digital governance platform designed to streamline city management by connecting citizens directly with administrative departments. It provides a transparent, efficient, and real-time environment for reporting and resolving public grievances.
+
+🚀 Key Features
+
+### 👥 User Roles & Access Control
+- **Super Admin**: System-wide oversight, department creation, and user management.
+- **Department Admin**: Manage department-specific complaints and assign tasks to field workers.
+- **Field Worker**: Receive task assignments, update resolution progress, and submit completion reports.
+- **Citizen**: Lodge complaints, track resolution status, and receive automated notifications.
