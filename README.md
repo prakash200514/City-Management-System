@@ -66,3 +66,20 @@ After running `seed_users.php`, you can use the following credentials to explore
 | **Super Admin** | `admin@smartcity.com` | `admin123` |
 
 *Note: For other roles (Dept Admin, Field Worker, Citizen), you can create them via the Super Admin dashboard or use the Registration page.*
+
+📂 Directory Structure
+
+```text
+├── assets/             # CSS styles, JS logic, and images
+├── config/             # Database connection and configurations
+├── database/           # SQL schema and migration scripts
+├── includes/           # Reusable UI components (Header, Footer)
+├── pages/              # Core application logic and modules
+│   ├── auth/           # Login, Registration, and Logout
+│   ├── complaints/     # Lodge and View complaint logic
+│   ├── dashboard/      # Role-specific dashboard views
+│   └── notifications/  # Notification handling
+├── index.php           # Landing Page
+├── setup_db.php        # Database initialization script
+└── seed_users.php       # Initial data seeding script
+```
