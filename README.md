@@ -49,3 +49,10 @@ Steps
    - Open PHPMyAdmin and create a database named `smart_city`.
    - Import `database/schema.sql`.
    - **OR** simply run `setup_db.php` in your browser: `http://localhost/city/setup_db.php`.
+
+4. **Initialize Users**
+   Run `seed_users.php` to generate default administrative and test accounts:
+   `http://localhost/city/seed_users.php`.
+
+5. **Start Using**
+   Access the application at `http://localhost/city/index.php`.
