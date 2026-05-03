@@ -29,3 +29,10 @@ SCORTS is a comprehensive digital governance platform designed to streamline cit
 - **Backend**: PHP 8.x.
 - **Database**: MySQL.
 - **Icons**: FontAwesome 6.0+.
+
+🛠️ Installation & Setup
+
+### Prerequisites
+- [XAMPP](https://www.apachefriends.org/index.html) or any WAMP/LEMP stack.
+- PHP 7.4 or higher.
+- MySQL 5.7 or higher.
