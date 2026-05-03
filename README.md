@@ -22,3 +22,10 @@ SCORTS is a comprehensive digital governance platform designed to streamline cit
 - **Automated Notifications**: Real-time in-app alerts, email notifications (via PHPMailer), and SMS simulations for critical updates.
 - **Analytics Dashboard**: Visual insights into department efficiency and complaint trends.
 - **Audit Trails**: Complete logging of status changes for accountability.
+
+💻 Tech Stack
+
+- **Frontend**: HTML5, Vanilla CSS3 (Custom Design System), JavaScript (ES6+).
+- **Backend**: PHP 8.x.
+- **Database**: MySQL.
+- **Icons**: FontAwesome 6.0+.
