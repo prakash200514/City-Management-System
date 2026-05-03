@@ -42,3 +42,10 @@ Steps
    ```bash
    git clone https://github.com/prakash200514/City-Management-System.git
    ```
+ **Move to Web Root**
+   Move the `city` folder to your `htdocs` (XAMPP) or `/var/www/html` directory.
+
+3. **Database Configuration**
+   - Open PHPMyAdmin and create a database named `smart_city`.
+   - Import `database/schema.sql`.
+   - **OR** simply run `setup_db.php` in your browser: `http://localhost/city/setup_db.php`.
