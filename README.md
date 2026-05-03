@@ -36,3 +36,9 @@ SCORTS is a comprehensive digital governance platform designed to streamline cit
 - [XAMPP](https://www.apachefriends.org/index.html) or any WAMP/LEMP stack.
 - PHP 7.4 or higher.
 - MySQL 5.7 or higher.
+
+Steps
+1. **Clone the Project**
+   ```bash
+   git clone https://github.com/prakash200514/City-Management-System.git
+   ```
