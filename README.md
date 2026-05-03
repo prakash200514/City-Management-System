@@ -64,3 +64,5 @@ After running `seed_users.php`, you can use the following credentials to explore
 | Role | Email | Password |
 | :--- | :--- | :--- |
 | **Super Admin** | `admin@smartcity.com` | `admin123` |
+
+*Note: For other roles (Dept Admin, Field Worker, Citizen), you can create them via the Super Admin dashboard or use the Registration page.*
