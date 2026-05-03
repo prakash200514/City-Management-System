@@ -69,7 +69,6 @@ After running `seed_users.php`, you can use the following credentials to explore
 
 📂 Directory Structure
 
-```text
 ├── assets/             # CSS styles, JS logic, and images
 ├── config/             # Database connection and configurations
 ├── database/           # SQL schema and migration scripts
@@ -83,3 +82,6 @@ After running `seed_users.php`, you can use the following credentials to explore
 ├── setup_db.php        # Database initialization script
 └── seed_users.php       # Initial data seeding script
 ```
+📝 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
